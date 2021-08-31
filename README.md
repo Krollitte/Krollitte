@@ -3,7 +3,7 @@
 ## Olá Pessoal
 
 <div>
-  <a href="https://github.com/SantosRafa">
+  <a href="https://github.com/Krollitte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantosRafa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosRafa&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -23,7 +23,7 @@
   <a href = "mailto:rsantoslfap@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="hhttps://www.linkedin.com/in/rafael-santos-laborda-fernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/SantosRafa/SantosRafa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Krollitte/SantosRafa/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
